@@ -1,7 +1,7 @@
 ---
 banner:
   name: '阿里巴巴 canal 客户端'
-  desc: '基阿里巴巴 canal 客户端'
+  desc: 'Buession Canal 是一款实现对阿里巴巴 客户端封装类库。'
   btns: 
     - { name: '开 始', href: '/docs/quickstart.html', primary: true }
     - { name: 'Github >', href: 'https://github.com/buession/buession-canal' }
